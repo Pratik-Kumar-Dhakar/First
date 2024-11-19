@@ -1,0 +1,29 @@
+
+
+header{
+    position:fixed;
+    width: 100%;
+    top:0;
+    background-color: rgb(255, 255, 255);
+}
+a{
+    cursor: pointer;
+}
+span{
+    cursor: pointer
+}
+
+h1.recentposts{
+    font-size: xx-large;
+    margin-left: 70px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+
+a.link{
+    font-size: large;
+}
+
+footer{
+    background-color: rgb(118, 107, 131);
+}
+

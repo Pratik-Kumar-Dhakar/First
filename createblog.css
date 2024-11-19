@@ -1,0 +1,52 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 20px;
+  }
+  
+#blog-links {
+    margin-bottom: 20px;
+  }
+  
+#blog-links h2 {
+    margin-bottom: 10px;
+  }
+  
+#blog-links a {
+    display: block;
+    margin-bottom: 5px;
+    text-decoration: none;
+    color: #333;
+  }
+  
+#blog-links a:hover {
+    text-decoration: underline;
+  }
+  
+#blog-form {
+    background-color: #f2f2f2;
+    padding: 20px;
+    border-radius: 5px;
+  }
+  
+#blog-form input,
+#blog-form textarea {
+    width: 100%;
+    padding: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #ccc;
+    border-radius: 3px;
+  }
+  
+#blog-form button {
+    background-color: #4CAF50;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+  }
+  
+#blog-form button:hover {
+    background-color: #3e8e41;
+  }
